@@ -1,0 +1,18 @@
+CreateSpecto
+
+This script uses the wave and numpy libraries to read the audio file and convert the audio data to a numpy array. It then uses the matplotlib.pyplot library to plot the spectrogram of the audio data.
+
+Make sure to update the value for audio_file_name with the name of your own audio file before running the script. Also, make sure that the audio file is in the same directory as the script.
+
+Findspectomatch
+
+This script uses the wave and numpy libraries to read the audio file and convert the audio data to a numpy array. It then uses the matplotlib.pyplot library to plot the spectrogram of the audio data.
+
+The script then uses the scikit-learn library to train a neural network classifier on a set of training data, and uses the trained classifier to predict the label for the audio file.
+
+Make sure to update the value for audio_file_name with the name of your own audio file before running the script. Also, make sure that the audio file is in the same directory as the script, and that the training data files spectrogram_data.npy and spectrogram_labels.npy are also in the same directory.
+
+
+
+
+
